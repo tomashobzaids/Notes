@@ -64,4 +64,3 @@ Buňky žírné, **heparin**, zabraňují srážení krve.
 
 - neurony
 - neuroglie - vyživují neurony a odvádějí odpadní látky
-- 
